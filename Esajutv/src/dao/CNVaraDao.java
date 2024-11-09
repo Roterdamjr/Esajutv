@@ -1,6 +1,8 @@
 package dao;
 
 import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.util.ArrayList;
 
 import modelo.VaraAno;
 
@@ -30,5 +32,41 @@ public class CNVaraDao  extends DaoBase{
 			pstmt.executeUpdate();
 			super.close();
 		} catch (Exception e) {	trataErro("Erro de banco de dados:",e);}
+	}
+	
+	public ArrayList<String> getVaras() {
+		ArrayList<String> varas = new ArrayList<String>();
+		
+		String sql = "SELECT * from TB_VARA";
+
+		try {        	        
+			PreparedStatement pstmt = conn.prepareStatement(sql);
+			ResultSet rs = pstmt.executeQuery();
+			
+			while (rs.next()) {
+				varas.add(rs.getString("vara"));
+            }
+			
+			super.close();
+		} catch (Exception e) {		trataErro("Erro de banco de dados:",e);		}
+		return varas;
+	}
+	
+	public ArrayList<String> getJurisdicoes() {
+		ArrayList<String> varas = new ArrayList<String>();
+		
+		String sql = "select distinct jurisdicao from tb_vara order by jurisdicao";
+
+		try {        	        
+			PreparedStatement pstmt = conn.prepareStatement(sql);
+			ResultSet rs = pstmt.executeQuery();
+			
+			while (rs.next()) {
+				varas.add(rs.getString("jurisdicao"));
+            }
+			
+			super.close();
+		} catch (Exception e) {		trataErro("Erro de banco de dados:",e);		}
+		return varas;
 	}
 }

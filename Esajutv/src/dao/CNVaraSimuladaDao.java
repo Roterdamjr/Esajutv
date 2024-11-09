@@ -28,12 +28,13 @@ public class CNVaraSimuladaDao extends DaoBase{
 		} catch (Exception e) {	trataErro("Erro de banco de dados:",e);}
 	}
 	
-	public void alterar(String varaTransferida)  {
-		String sql ="update tb_cn_vara_simulada set jurisdicao='DC' where trim(vara)=?";
+	public void alterar(String jurisdicao, String varaTransferida)  {
+		String sql ="update tb_cn_vara_simulada set jurisdicao=? where trim(vara)=?";
 		
 		try {        	        
 			PreparedStatement pstmt = conn.prepareStatement(sql);
-			pstmt.setString(1, varaTransferida);
+			pstmt.setString(1, jurisdicao);
+			pstmt.setString(2, varaTransferida);
 			pstmt.executeUpdate();
 		} catch (Exception e) {	trataErro("Erro de banco de dados:",e);}
 		

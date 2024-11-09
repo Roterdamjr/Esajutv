@@ -15,8 +15,11 @@ public class Principal {
 		Principal me =new Principal();
 		//me.lerCSV();
 		//me.popularMedias();
-		me.simular();
-
+		//me.simular();
+		ArrayList<String> varas = new CNVaraDao().getVaras();
+		for(String v:varas) {
+			System.out.println(v);
+		}
 	}
 	
 	public void lerCSV() {
@@ -57,7 +60,7 @@ public class Principal {
 	new CNVaraSimuladaDao().inserir();
 	System.out.println("fim de popular");	
 	
-	new CNVaraSimuladaDao().alterar("001VT/CF");
+	new CNVaraSimuladaDao().alterar("DC","001VT/CF");
 	
 	}
 }
