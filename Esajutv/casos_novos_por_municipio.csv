@@ -1,0 +1,93 @@
+ANO;NOM_MUNICIPIO;COD_IBGE;JURISDICAO;CASOS_NOVOS
+2022,0;São Fidélis                                       ;3304805;CAMPOS DOS G;46,0
+2022,0;Carapebus                                         ;3300936;MACAÉ       ;117,0
+2022,0;Cordeiro                                          ;3301504;NOVA FRIBURG;32,0
+2022,0;Macuco                                            ;3302452;NOVA FRIBURG;6,0
+2022,0;Trajano de Morais                                 ;3305901;NOVA FRIBURG;5,0
+2022,0;Rio das Ostras                                    ;3304524;MACAÉ       ;633,0
+2022,0;Silva Jardim                                      ;3305604;ITABORAÍ    ;90,0
+2022,0;Piraí                                             ;3304003;BARRA DO PIR;66,0
+2022,0;Resende                                           ;3304201;RESENDE     ;1254,0
+2022,0;Rio das Flores                                    ;3304508;BARRA DO PIR;35,0
+2022,0;São José do Vale do Rio Preto                     ;3305158;PETRÓPOLIS  ;19,0
+2022,0;Itaguaí                                           ;3302007;ITAGUAÍ     ;1196,0
+2022,0;Magé                                              ;3302502;MAGÉ        ;1172,0
+2022,0;Guapimirim                                        ;3301850;MAGÉ        ;52,0
+2022,0;Belford Roxo                                      ;3300456;NOVA IGUAÇU ;453,0
+2022,0;Rio de Janeiro                                    ;3304557;RIO DE JANEI;84689,0
+2022,0;Cardoso Moreira                                   ;3301157;CAMPOS DOS G;13,0
+2022,0;São Francisco de Itabapoana                       ;3304755;CAMPOS DOS G;13,0
+2022,0;Cabo Frio                                         ;3300704;CABO FRIO   ;1861,0
+2022,0;Barra Mansa                                       ;3300407;BARRA MANSA ;888,0
+2022,0;Itatiaia                                          ;3302254;RESENDE     ;58,0
+2022,0;Pinheiral                                         ;3303955;VOLTA REDOND;28,0
+2022,0;Valença                                           ;3306107;BARRA DO PIR;177,0
+2022,0;Angra dos Reis                                    ;3300100;ANGRA DOS RE;951,0
+2022,0;Cachoeiras de Macacu                              ;3300803;NOVA FRIBURG;107,0
+2022,0;Mangaratiba                                       ;3302601;ITAGUAÍ     ;99,0
+2022,0;Mesquita                                          ;3302858;NOVA IGUAÇU ;286,0
+2022,0;Aperibé                                           ;3300159;ITAPERUNA   ;15,0
+2022,0;Comendador Levy Gasparian                         ;3300951;TRÊS RIOS   ;7,0
+2022,0;Sapucaia                                          ;3305406;TRÊS RIOS   ;37,0
+2022,0;Santa Maria Madalena                              ;3304607;NOVA FRIBURG;8,0
+2022,0;Casimiro de Abreu                                 ;3301306;MACAÉ       ;52,0
+2022,0;São Pedro da Aldeia                               ;3305208;CABO FRIO   ;149,0
+2022,0;Porto Real                                        ;3304110;RESENDE     ;48,0
+2022,0;Rio Claro                                         ;3304409;ANGRA DOS RE;4,0
+2022,0;Mendes                                            ;3302809;BARRA DO PIR;18,0
+2022,0;Paty do Alferes                                   ;3303856;BARRA DO PIR;16,0
+2022,0;Rio Bonito                                        ;3304300;ITABORAÍ    ;327,0
+2022,0;Maricá                                            ;3302700;MARICÁ      ;1013,0
+2022,0;São Gonçalo                                       ;3304904;SÃO GONÇALO ;5662,0
+2022,0;São João de Meriti                                ;3305109;SÃO JOÃO DE ;2480,0
+2022,0;Macaé                                             ;3302403;MACAÉ       ;3296,0
+2022,0;Quissamã                                          ;3304151;MACAÉ       ;23,0
+2022,0;Areal                                             ;3300225;TRÊS RIOS   ;23,0
+2022,0;Arraial do Cabo                                   ;3300258;CABO FRIO   ;75,0
+2022,0;Iguaba Grande                                     ;3301876;ARARUAMA    ;14,0
+2022,0;Quatis                                            ;3304128;BARRA MANSA ;8,0
+2022,0;Varre-Sai                                         ;3306156;ITAPERUNA   ;4,0
+2022,0;Miracema                                          ;3303005;ITAPERUNA   ;38,0
+2022,0;Itaocara                                          ;3302106;ITAPERUNA   ;24,0
+2022,0;Conceição de Macabu                               ;3301405;MACAÉ       ;12,0
+2022,0;Paraíba do Sul                                    ;3303708;TRÊS RIOS   ;80,0
+2022,0;Cantagalo                                         ;3301108;NOVA FRIBURG;40,0
+2022,0;Duas Barras                                       ;3301603;NOVA FRIBURG;7,0
+2022,0;Nova Iguaçu                                       ;3303500;NOVA IGUAÇU ;6522,0
+2022,0;Nilópolis                                         ;3303203;NILÓPOLIS   ;883,0
+2022,0;Japeri                                            ;3302270;QUEIMADOS   ;74,0
+2022,0;Queimados                                         ;3304144;QUEIMADOS   ;968,0
+2022,0;Laje do Muriaé                                    ;3302304;ITAPERUNA   ;23,0
+2022,0;Porciúncula                                       ;3304102;ITAPERUNA   ;30,0
+2022,0;Santo Antônio de Pádua                            ;3304706;ITAPERUNA   ;98,0
+2022,0;Sumidouro                                         ;3305703;NOVA FRIBURG;4,0
+2022,0;Paracambi                                         ;3303609;QUEIMADOS   ;217,0
+2022,0;Teresópolis                                       ;3305802;TERESÓPOLIS ;972,0
+2022,0;Campos dos Goytacazes                             ;3301009;CAMPOS DOS G;3667,0
+2022,0;Bom Jesus do Itabapoana                           ;3300605;ITAPERUNA   ;82,0
+2022,0;Cambuci                                           ;3300902;ITAPERUNA   ;27,0
+2022,0;                                                  ;       ;            ;397,0
+2022,0;Três Rios                                         ;3306008;TRÊS RIOS   ;805,0
+2022,0;Carmo                                             ;3301207;NOVA FRIBURG;34,0
+2022,0;Bom Jardim                                        ;3300506;NOVA FRIBURG;38,0
+2022,0;Armação dos Búzios                                ;3300233;CABO FRIO   ;236,0
+2022,0;Volta Redonda                                     ;3306305;VOLTA REDOND;2809,0
+2022,0;Seropédica                                        ;3305554;ITAGUAÍ     ;234,0
+2022,0;Tanguá                                            ;3305752;ITABORAÍ    ;66,0
+2022,0;Itaperuna                                         ;3302205;ITAPERUNA   ;716,0
+2022,0;Natividade                                        ;3303104;ITAPERUNA   ;28,0
+2022,0;São João da Barra                                 ;3305000;CAMPOS DOS G;46,0
+2022,0;Nova Friburgo                                     ;3303401;NOVA FRIBURG;1808,0
+2022,0;São Sebastião do Alto                             ;3305307;NOVA FRIBURG;4,0
+2022,0;Araruama                                          ;3300209;ARARUAMA    ;1375,0
+2022,0;Saquarema                                         ;3305505;ARARUAMA    ;543,0
+2022,0;Barra do Piraí                                    ;3300308;BARRA DO PIR;828,0
+2022,0;Parati                                            ;3303807;ANGRA DOS RE;82,0
+2022,0;Engenheiro Paulo de Frontin                       ;3301801;BARRA DO PIR;30,0
+2022,0;Miguel Pereira                                    ;3302908;BARRA DO PIR;43,0
+2022,0;Vassouras                                         ;3306206;BARRA DO PIR;78,0
+2022,0;Petrópolis                                        ;3303906;PETRÓPOLIS  ;2314,0
+2022,0;Niterói                                           ;3303302;NITERÓI     ;6647,0
+2022,0;Itaboraí                                          ;3301900;ITABORAÍ    ;1430,0
+2022,0;Duque de Caxias                                   ;3301702;DUQUE DE CAX;10143,0
+2022,0;Italva                                            ;3302056;ITAPERUNA   ;12,0
